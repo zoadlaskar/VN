@@ -4,7 +4,10 @@ I own just the eva and david customs.
 https://youtu.be/5V9Sl1zlDcg
 The hardest part of this was honestly the writing. Renpy is practically english and the little coding that it does include isn't all that hard.
 I thought it would be an enormously hard part of it but it wasn't to be honest. The only hard part of the coding here was the sequencing but even that wasn't that bad if you left comments to remind yourself.
-I think the only coding thing that I sort of didn't get to do was the part GUI I think I did a bit but I wanted to change the color of the text.
+The variables were also not hard to use I mean its still weird that it's a money $ sign but still not all that hard in my opinion.
+I think the only coding thing that I sort of didn't get to do was the part GUI I think I did a bit but I wanted to change the color of the text and maybe the text box.
+I wasn't sure if I wanted to make a variable where you sort of get points for what you say to improve relations.
+But I felt as though the story wouldn't work that way since it wouldn't make sense writing wise. The escape part that was coming up sort of depends on them working as a team. And if you don't have a team it doesn't work writing wise in the sense the self inserts and the girl mc's main way to realize they are human even if they are robots is through one another and their love for eachother.
 
 It was really hard to make the characters and I think it was pretty evident that in the beginning the writing was sort of sloppy.
 I'll probably edit it after the project like after the semester ends slightly.
