@@ -1,7 +1,9 @@
 # VN
 I do not own any of the images they are all itch.io and google honestly or the audio.
 I own just the eva and david customs.
-https://youtu.be/5V9Sl1zlDcg
+https://youtu.be/MT2TP5-irQ0
+
+
 The hardest part of this was honestly the writing. Renpy is practically english and the little coding that it does include isn't all that hard.
 I thought it would be an enormously hard part of it but it wasn't to be honest. The only hard part of the coding here was the sequencing but even that wasn't that bad if you left comments to remind yourself.
 The variables were also not hard to use I mean its still weird that it's a money $ sign but still not all that hard in my opinion.
