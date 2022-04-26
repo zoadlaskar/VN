@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 492, in script
+    
+ScriptError: could not find label 'route1j2a'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 492, in script
+    
+  File "C:\Users\97748\Downloads\renpy-7.4.11-sdk/renpy/ast.py", line 1757, in execute
+    rv = renpy.game.script.lookup(target)
+  File "C:\Users\97748\Downloads\renpy-7.4.11-sdk/renpy/script.py", line 918, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'route1j2a'.
+
+Windows-10-10.0.22000
+Ren'Py 7.4.11.2266
+Blue Sky 1.0
+Mon Apr 25 04:00:39 2022
